@@ -1,0 +1,19 @@
+segment_sources:
+  PBA73B0AB:
+    type: origin_type
+    relation: translation
+    language: en
+  P665CB104:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  de648e1361f6409c8e8bc395ae080e5b:
+    PBA73B0AB: c6edec70ceb24e26a59aaa205243ecbc
+    P665CB104: a0d45b5958af4fa6b2301a69d5e58c08
+  954e38168a5649238a65563c84471c8c:
+    PBA73B0AB: fbea8bdfb9b740119b8727b42168ee68
+    P665CB104: 41836bde1a95406bbe45721e107a49b6
+  5dd403e298f849f181f5bcb01baef0f1:
+    PBA73B0AB: 5d2504b401f94101b6b87cb123c0cbfd
+    P665CB104: ee8a0d3e000b498e9692fd90e7046b00
